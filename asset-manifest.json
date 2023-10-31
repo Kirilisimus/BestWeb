@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/BestWeb/static/css/main.30b33278.css",
-    "main.js": "/BestWeb/static/js/main.4f873c52.js",
+    "main.css": "/BestWeb/static/css/main.f267a935.css",
+    "main.js": "/BestWeb/static/js/main.4f62c265.js",
     "index.html": "/BestWeb/index.html",
-    "main.30b33278.css.map": "/BestWeb/static/css/main.30b33278.css.map",
-    "main.4f873c52.js.map": "/BestWeb/static/js/main.4f873c52.js.map"
+    "main.f267a935.css.map": "/BestWeb/static/css/main.f267a935.css.map",
+    "main.4f62c265.js.map": "/BestWeb/static/js/main.4f62c265.js.map"
   },
   "entrypoints": [
-    "static/css/main.30b33278.css",
-    "static/js/main.4f873c52.js"
+    "static/css/main.f267a935.css",
+    "static/js/main.4f62c265.js"
   ]
 }
