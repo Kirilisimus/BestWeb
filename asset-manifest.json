@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/BestWeb/static/css/main.6818e587.css",
+    "main.css": "/BestWeb/static/css/main.ec518b85.css",
     "main.js": "/BestWeb/static/js/main.1f81693b.js",
     "static/media/instagram.svg": "/BestWeb/static/media/instagram.f19834e51679ce931f126f2b526d11f5.svg",
     "static/media/watsapp.svg": "/BestWeb/static/media/watsapp.6181e5cecd1a682846ba3e623621a869.svg",
     "index.html": "/BestWeb/index.html",
-    "main.6818e587.css.map": "/BestWeb/static/css/main.6818e587.css.map",
+    "main.ec518b85.css.map": "/BestWeb/static/css/main.ec518b85.css.map",
     "main.1f81693b.js.map": "/BestWeb/static/js/main.1f81693b.js.map"
   },
   "entrypoints": [
-    "static/css/main.6818e587.css",
+    "static/css/main.ec518b85.css",
     "static/js/main.1f81693b.js"
   ]
 }
